@@ -49,6 +49,24 @@ def generateTable():
 # for a in range(5, 8):
 #     print(f"a={a}")
 
-for a in range(34, 94, 10):
-    print(f"a={a}")
+# for a in range(34, 94, 10):
+#     print(f"a={a}")
+
+# for i in  range(30, 12, -3):
+#     print(f"i={i}")
+
+
+# name = "Maaz Ul Haq"
+# for c in name:
+#     print(f"The character is {c}")
+
+
+students = ["Nousheen", "Anas", "Ammar", "Hunain"]
+
+# for std in students:
+#     print(f"{std} is 2309C1's student.")
+
+for std in students:
+    for c in std:
+        print(f"The character is {c}")
 
