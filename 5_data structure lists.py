@@ -27,3 +27,5 @@ for f in fruits:
 
 print("apple" in fruits)
 print("grapes" in fruits)
+
+
