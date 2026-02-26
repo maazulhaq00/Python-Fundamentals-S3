@@ -1,0 +1,12 @@
+pip
+
+
+Jupyter Notebook
+Google Colab
+
+pip --version
+pip install jupyter
+
+add path in environment variable ==> C:\Users\maazulhaq\AppData\Roaming\Python\Python313\Scripts
+
+jupyter notebook
